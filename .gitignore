@@ -1,3 +1,5 @@
+# this is files that are ignored by git.
+
 *.log
 
 *.db
